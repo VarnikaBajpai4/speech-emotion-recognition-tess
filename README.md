@@ -137,5 +137,5 @@ Primary dependencies (see `requirements.txt` for full list):
 ---
 
 ## 👤 Author
-Your Name — your.email@example.com
-https://github.com/your-username
+Your Name — bajpaivarnika04@gmail.com
+https://github.com/VarnikaBajpai4
